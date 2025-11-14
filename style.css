@@ -10,5 +10,7 @@ body {
      justify-content: space-around;
      align-items: center;
      padding: 24px;
-
+}
+.cabeçalho-titulo {
+    font-size: 54px;
 }
